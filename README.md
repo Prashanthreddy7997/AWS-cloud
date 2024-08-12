@@ -1,1 +1,1 @@
-# AWS-clous
+# AWS-cloud
