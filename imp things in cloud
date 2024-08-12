@@ -1,0 +1,19 @@
+Cloud Security:
+
+-->>Cloud offers a range of benefits most notably cost savings, Scalability and flexibility.
+
+-->>Cloud can described as consisting of 3 service models & 4 deployment models
+   ==> Cloud service providers that typically deliver services a different levels called Cloud service models
+	===>SAAS---Software as a service----Similar like purchasing bowl of soup----its like usage of daily basis
+	        ====>SAAS is like an on demand paper use of application software without need to install software on your local machine	
+	===>PAAS---Platform as service------its like getting all ingredients for making soup and make it by yourself
+		====>PAAS is a cloud environment that developers provide a framework they can use to build software & applications.
+	===>IAAS---Infrastructure as a service---Its like getting access for  kitchen to making a soup
+		====>IAAS provides users for basic infrastructure capabilities like data storage, hardware all in the cloud without the need of large physical onsite 
+		     infrastructures.
+--->>The 4 deployments models are-----Private cloud, Public cloud, Hybrid cloud & Community cloud.
+
+
+Lambda function:
+
+Lambda function is serverless computing service in AWS mostly used cloud cost optimization, monitoring, 
